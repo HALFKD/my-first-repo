@@ -1,1 +1,12 @@
-# my-first-repo
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>My First Page</title>
+</head>
+<body>
+    <h1>こんにちは、GitHub Pages!</h1>
+    <p>これは私のはじめての公開Webページです。</p>
+</body>
+</html>
